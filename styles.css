@@ -2145,7 +2145,7 @@ img,
   align-content: center;
   background: #050505;
   z-index: 500;
-  height: 100vh;
+  height: 100%;
   width: 100%;
   opacity: 1;
 }
